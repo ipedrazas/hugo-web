@@ -9,4 +9,7 @@ How do we guarantee that this one will not follow the previous ones? well, becau
 
 So, here we are, a website in Github. Other things that I've been adding there that might interest you:
 
+
+* [Helm base](https://github.com/ipedrazas/helm-base)
 * [Flux Tutorial](https://github.com/ipedrazas/flux-tutorial)
+
