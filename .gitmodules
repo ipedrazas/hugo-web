@@ -1,0 +1,7 @@
+[submodule "ipedrazas.gituhub.io/themes/cupper-hugo-theme"]
+	path = ipedrazas.gituhub.io/themes/cupper-hugo-theme
+	url = https://github.com/zwbetz-gh/cupper-hugo-theme.git
+[submodule "ipedrazas.gituhub.io/public"]
+	path = ipedrazas.gituhub.io/public
+	url = git@github.com:ipedrazas/ipedrazas.github.io.git
+	branch = master
