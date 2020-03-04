@@ -8,10 +8,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
-    - name: Run a one-line script
-      run: echo Hello, world!
-    - name: Run a multi-line script
-      run: |
-        echo Add other actions to build,
-        echo test, and deploy your project.
+    - uses: actions/checkout@master
+      with:
+        submodules: true
+
+    - uses: ipedrazas/hugo:v1.0.0
+      with:
+        destination_repo: ipedrazas/ipedrazas.github.io
+        destination_token: ${{ secrets.Deploy_Token }}
