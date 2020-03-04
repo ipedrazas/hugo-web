@@ -8,9 +8,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@master
+      - uses: actions/checkout@v2
         with:
-          submodules: true
+          ref: master
     
       - uses: jsumners/gh-action-hugo-deploy@v1.0.0
         with:
