@@ -3,14 +3,10 @@ date: "2014-04-09"
 title: "About"
 ---
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
+You can find me in different places:
 
-It makes use of a variety of open source projects including:
+* https://twitter.com/ipedrazas
 
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+* https://github.com/ipedrazas
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+If you want to get in contact with me, the easiest way is to ping me in twitter 😉
